@@ -1,0 +1,2 @@
+# Hackercup
+Hackercup solutions
